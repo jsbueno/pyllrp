@@ -1,4 +1,4 @@
-Initial implemention of RRLP RFID protocol in pure Python
+Initial implemention of LLRP RFID protocol in pure Python
 =========================================================
 
 
